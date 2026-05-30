@@ -2,7 +2,7 @@
   "name": "PM Command Center",
   "short_name": "PM Dashboard",
   "description": "ระบบบริหารโครงการและติดตามงาน",
-  "start_url": "./pm-dashboard-v2.html",
+  "start_url": "./",
   "display": "standalone",
   "orientation": "any",
   "background_color": "#f0f4ff",
